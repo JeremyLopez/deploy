@@ -1,0 +1,8 @@
+{
+  "name": "deploy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d25f6e13"
+}
